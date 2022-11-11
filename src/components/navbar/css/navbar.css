@@ -1,0 +1,34 @@
+.navbar-main-1{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin: auto;
+    background-color: rgb(111, 224, 111);
+    padding: 10px;
+}
+.navbar-main-1 > div{
+    /* width: 50%; */
+}
+.navbar-main-4{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+.navbar-main-2{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+.navbar-main-3{
+    display: flex;
+    width: 30%;
+    justify-content: space-around;
+}
+.navbar-h3{
+    margin-top: 0px;
+}
+.navbar-h3 > h3{
+    margin: 0px;
+}
